@@ -1,0 +1,279 @@
+
+Subject Name: Programming for Data Science
+Subject Code: COMP 7024
+Teaching Periods:
+- Spring 2024
+- Quarter 1 2025
+- Autumn 2025
+- Spring 2025
+Pre-requisite: No
+Coordinator: Chng Wei Lau
+Credit point: 10
+Subject Content:
+- Introduction to R and R-Studio
+- Data Types, Variables, Expressions, and Data Structures
+- Input and Output
+- Control Structures: Loops, Conditional Expressions, and Functions
+- Simulation techniques
+- Object-oriented programming in R
+- Introduction to SQL
+- Using Markdown for reporting
+Learning outcomes:
+- Use Excel to manage and manipulate data.
+- Extract, transform and load data using R and R-Studio; including reading and writing data files.
+- Create complex R programs to conduct Data Science tasks.
+- Use basic SQL to access databases.
+- Apply simulation techniques to Data Science tasks.
+- Create reports using Markdown and R-Markdown.
+
+Subject Name: The Nature of Data
+Subject Code: MATH 7016
+Coordinator: Gizem Intepe
+Credit point: 10
+Teaching Periods:
+- Spring 2024
+- Autumn 2025
+- Quarter 2 2025
+- Spring 2025
+- Quarter 4 2025
+Pre-requisite: No
+Restrictions:
+- Students must be enrolled in a postgraduate program.
+Assumed Knowledge:
+- Undergraduate degree with some statistical content (1 subject) is useful.
+Subject content:
+- The Types, Description and Exploration of Data
+- Collecting Good Data
+- Probability Theory
+- Computer assisted Estimation and Inference
+- Linear Modelling
+- Large Samples and Normal Theory
+- Common Statistical Mistakes
+Learning outcomes: 
+- Describe types of data and the relevance to real world examples
+- Design data collection strategies that provide unbiased and reliable data
+
+Subject Name: Big Data
+Subject Code: COMP 7003
+Coordinator: Yi Guo
+Credit point: 10
+Teaching Periods: 
+- Autumn 2025
+Pre-requisite: No
+Assumed Knowledge:
+- It is expected that students enrolled in this subject should have basic programming skills in any programming language and working knowledge in elementary probability and statistics, including the concepts of random variables, basic probability distributions, expectations, mean and variance.
+Subject content:
+- Foundations and recent trends of big data
+- Parallel database management systems
+- Data parallelism and the MapReduce framework
+- NoSQL databases and cloud services
+- Data processing and manipulation for big data analysis
+Learning outcomes:
+- Explain the major trends in technology, business, and science behind big data
+- Analyse and compare a selection of major big data management techniques in use today, including parallel databases, NoSQL, MapReduce, cloud services
+
+Subject Name: Visualisation
+Subject Code: COMP 7016
+Coordinator: Quang Vinh Nguyen
+Credit point: 10
+Teaching Periods: 
+- Quarter 3 2024
+- Autumn 2025
+- Quarter 3 2025
+Pre-requisite: MATH 7016
+Restrictions:
+- Students must be enrolled in a postgraduate program.
+Assumed Knowledge:
+- Familiarity with computer software programs, such as Microsoft Office.
+Subject content:
+- Information visualisation including main concepts and overview
+- Visual mappings and visual perception
+- Trees and graphs visualisation
+- Multi-dimensional data visualisation
+- Spatio-temporal data visualisation
+- Interaction
+- Using visualisation and tools to understand data
+- Visual Analytics
+Learning outcomes: 
+- Explain the purpose of information visualisation
+- Identify strengths, limitations and opportunity of visualisation techniques
+- Evaluate common visualisation techniques for relational data, multi-dimensional data and spatio-temporal data
+- Analyse interaction methods in visualisation
+- Apply common visualisation tools for data analysis
+- Evaluate visual analytics technologies and tools for data analysis
+
+Subject Name: Data Science
+Subject Code: COMP 7006
+Coordinator: Liwan Liyanage
+Credit point: 10
+Teaching Periods: 
+- Spring 2024
+- Quarter 4 2024
+- Spring 2025
+- Quarter 4 2025
+Pre-requisite: No
+Assumed Knowledge:
+- Basic Statistics, Computer Programming.
+Subject Content:
+- Introduction to Data Science
+- The Map-Reduce paradigm for Big Data
+- Unsupervised Learning; Clustering, Dimension Reduction
+- Supervised Learning; Regression and Classification
+- Unstructured data
+- Visualisation and Visual Analytics
+Learning outcomes: 
+- Describe the issues (computational and social) in data science
+- Show when and how to apply the MapReduce paradigm to solve data analytics problems
+- Select and apply appropriate Machine learning and statistical algorithms to extract information from data
+- Evaluate and interpret the utility of information found using Data Science
+
+Subject Name: Advanced Statistical Methods
+Subject Code: MATH 7002
+Coordinator: Yi Guo
+Credit point: 10
+Teaching Periods: 
+- Spring 2024
+- Spring 2025
+Pre-requisite:
+- MATH 7012 
+- MATH 7016
+Co-requisite: COMP 7006
+Restrictions:
+- Students must be enrolled in a postgraduate program.
+Subject content:
+- Review of Probability Theory and Likelihood
+- Density Estimation
+- Maximum Likelihood and EM algorithm
+- Jack-knife, Bootstrap and Cross-validation
+- Introduction to Bayesian Methods
+- Markovian and Hidden Markov Models
+Learning outcomes: - Describe the axioms of probability and the principle of maximum likelihood.
+- Use density estimation to model continuous data.
+- Apply the EM algorithm (Expectation-Maximisation Algorithm) to maximise complex likelihood functions.
+- Evaluate models using computational techniques
+- Analyse data using Bayesian statistical models and MCMC (Markov-Chain Monte Carlo)
+
+Subject Name: Predictive Analytics
+Subject Code: COMP 7023
+Teaching Periods:
+- Spring 2024
+- Spring 2025
+Pre-requisite: No
+Coordinator: Rosalind Wang
+Credit point: 10
+Subject content:
+- The information age has allowed business and science to take advantage of the vast amount of available data for predicting outcomes and estimating trends, to make informed decisions.
+- Machine learning is the process of allowing a computer to learn from data, which at its heart is used in making these important decisions.
+- Students will use the Python programming language throughout this subject.
+Learning outcomes: 
+- Students will gain knowledge and practice required to implement and effectively use predictive models such as Neural Networks and Support Vector Machines.
+- Students will have opportunity to investigate state-of-the-art.
+
+Subject Name: Postgraduate Project A
+Subject Code: INFO 7016
+Coordinator: Jianhua Yang
+Credit point: 10
+Teaching Periods: 
+- Term 2 2024
+- Spring 2024
+- Autumn 2025
+- Spring 2025
+Restrictions:
+- Students must be enrolled in a postgraduate program and have successfully completed 60 credit points of postgraduate subjects.
+Subject content:
+- Questioning: develop research question(s) or hypotheses
+- Problem identification: identify A Problem in A relevant field
+Learning outcomes: 
+- Critically analyse the relevant literature to identify potential research problems in the fields of ICT, DS, AI, and Mathematics.
+- Generate research questions and hypothesis based on the literature review and the changing landscape.
+
+Subject Name: Social Media Intelligence
+Subject Code: COMP 7025
+Coordinator: Laurence Park
+Credit point: 10
+Teaching Periods: 
+- Autumn 2025
+- Quarter 2 2025
+Pre-requisite: No
+Assumed Knowledge:
+- Basic algebra and computing skills
+Subject content:
+- Graph theory and social networks
+- Introduction to Game theory
+- Information networks and the Web
+- Network population models
+- Network structural models
+Learning outcomes: 
+- Identify and describe properties of social media networks.
+- Compute graph statistics from given social media networks.
+- Analyse simple games and describe their connection to social media networks.
+- Compute and interpret centrality scores over social media networks.
+- Generate and identify small world networks.
+- Use a computer to assist in the analysis of large scale social networks.
+
+Subject Name: Advanced Machine Learning
+Subject Code: INFO 7001
+Coordinator: Oliver Obst
+Credit point: 10
+Teaching Periods: 
+- Spring 2024
+- Spring 2025
+Pre-requisite: COMP 7024
+Restrictions:
+- Students must be enrolled in a postgraduate program.
+Assumed Knowledge:
+- Fundamentals of computer programming and basic linear algebra.
+Subject content:
+- Introduction to Advanced Machine Learning
+- Deep Learning
+- Reinforcement Learning
+Learning outcomes: 
+- Describe appropriate machine learning methods for given problems.
+- Fit modern machine learning models to data.
+- Make predictions based on a fitted machine learning model.
+- Analyse data based on a fitted machine learning model.
+- Evaluate the utility of a machine learning method for given data.
+
+Subject Name: Postgraduate Project B
+Subject Code: INFO 7017
+Coordinator: Jianhua Yang
+Credit point: 10
+Teaching Periods: 
+- Spring 2024
+- Autumn 2025
+- Spring 2025
+Co-requisite: INFO 7016
+Assumed Knowledge:
+- Fundamentals of software or information systems management, Knowledge in research methodology and Skills in literature review and oral presentation.
+Subject content:
+- Literature review: further review and appraise the current literature related to the study topic.
+- Implementation of research methodology: the research plan and methodology that have been established in Postgraduate Project A are implemented in this subject. Students may carry out the experimental work or numerical simulations or theoretical analysis or field studies.
+- Analysis and discussion: conduct detailed quantitative and qualitative analyses of the data collected and discuss the results.
+- Reporting: produce a complete dissertation and present the final findings clearly stating the student’s own original contribution to the study topic.
+Learning outcomes: 
+- Conduct continuous review of existing literature in the fields of ICT, DS, AI, and Mathematics to identify the relevance to the proposed research project.
+- Execute a prepared research plan using appropriate methodologies.
+- Evaluate research findings against intended project outcomes.
+- Articulate research results in professional/formal and informal formats and contexts.
+- Apply self-management skills in executing research in computing contexts and oral presentation.
+- Demonstrate research ethics in synthesising complex information from a range of sources and referencing appropriately.
+
+Subject Name: Probablistic Graphical Models
+Subject Code: MATH 7017
+Coordinator: Oliver Obst
+Credit point: 10
+Teaching Periods: 
+- Autumn 2025
+Pre-requisite: MATH 7016
+Assumed Knowledge:
+- Probability, Linear Algebra, Basic Programming.
+Subject content:
+- Network representation and graphical models
+- Probabilistic models and entropy
+- Inference in graphical models
+- Learning graphical models
+Learning outcomes: 
+- Manually construct probabilistic models for specific data.
+- Automatically construct probabilistic models by learning from data.
+- Use the models to make decisions under uncertainty.
+- Accurately represent a probabilistic model using a graphical representation.
